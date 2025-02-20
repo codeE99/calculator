@@ -1,3 +1,5 @@
+//A procedural programming attempt at making a calculator
+
 #include <iostream>
 #include <string>
 
